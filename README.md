@@ -25,8 +25,9 @@ Let it begin...
   
 ### Sub-Reddits
 
-- [/r/elitedangerous](https://www.reddit.com/r/EliteDangerous/)
-- [/r/elitetraders](https://www.reddit.com/r/EliteTraders/)
+- [/r/elitedangerous](https://www.reddit.com/r/EliteDangerous/) - The main E:D site on reddit
+- [/r/elitetraders](https://www.reddit.com/r/EliteTraders/) - Where to go to make a credit or billion
+- [/r/eliteoutfitters/](https://www.reddit.com/r/eliteoutfitters/) - Get outfit ideas and feedback
 
 ### Elite Sites
 
