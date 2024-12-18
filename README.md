@@ -31,3 +31,10 @@ Let it begin...
 ### Elite Sites
 
 - [Inara.cz](https://inara.cz/elite/news/) - fantastic site to get pretty much any info you want out of E:D
+- [ED Star Map](https://www.edsm.net)
+- [EDTools.cc](https://edtools.cc)
+- [ED Reference Card](https://www.edrefcard.info) - Binds and reference card generation
+
+### Ship Builds
+
+- [Coriolis.io](https://coriolis.io)
