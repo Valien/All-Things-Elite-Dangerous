@@ -22,6 +22,7 @@ Let it begin...
 ### Other Cool Elite Repos
 
 - [EDMarketConnector](https://github.com/EDCD/EDMarketConnector) - contribute back to the community
+- [CMDR Dahkron  Binds](https://github.com/cmdrdahkron/elite-binds) 
   
 ### Sub-Reddits
 
